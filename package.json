@@ -8,8 +8,7 @@
   "bin": {
     "life": "cli.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ByronHsu/life-commit"
